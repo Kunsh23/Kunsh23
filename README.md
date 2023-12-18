@@ -46,7 +46,13 @@ If you need help with your projects, need someone to brainstorm with, or just ne
 
 ## Let's Connect ☕
 
-Feel free to reach out to me on LinkedIn, Twitter or via email at [Your Email Address].
+Feel free to reach out to me on:
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linkedin]
+[<img align="left" alt="Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/mail.svg" />][email]
+
+[linkedin]: https://www.linkedin.com/in/your-linkedin-username/
+[email]: kunsh23suneja@gmail.com
 
 
 <!---
