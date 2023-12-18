@@ -54,4 +54,11 @@ Feel free to reach out to me on:
 <!---
 Kunsh23/Kunsh23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+🔭 I’m currently working on front-end web development, focusing on HTML, CSS, JavaScript and ReactJS.
+👯 I’m looking to collaborate on open-source projects and innovative web design ideas.
+🤝 I’m looking for help with React and integrating it with different databases.
+🌱 I’m currently learning more about React and exploring the latest web design trends.
+💬 Ask me about web development, my projects, or any tech-related stuff.
+⚡ Fun fact: When I’m not coding, you can find me capturing moments with my camera, exploring new places, or riding my motorbike.
 --->
