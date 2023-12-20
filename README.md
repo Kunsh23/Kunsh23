@@ -20,12 +20,14 @@ I'm B.Tech Computer Science student at MVN University 🎓. I'm currently diving
   ![icons8-mysql-96](https://github.com/Kunsh23/Kunsh23/assets/154256562/d0b48f23-72a2-45b7-9305-6796f477970e)
   ![icons8-mongodb-96](https://github.com/Kunsh23/Kunsh23/assets/154256562/13d4dc0d-d905-4ff6-9a0e-82664164c538)
   ![icons8-canva-96](https://github.com/Kunsh23/Kunsh23/assets/154256562/7ec17a83-845b-49a9-a11e-4b4698577801)
-
+  
+<!---
 ## Achievements 🏆
 
 - **Achievement 1:** [Short description of achievement 1]
 - **Achievement 2:** [Short description of achievement 2]
 - **Achievement 3:** [Short description of achievement 3]
+--->
 
 ## What I'm Currently Learning 📚
 
