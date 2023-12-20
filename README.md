@@ -13,19 +13,12 @@ I'm B.Tech Computer Science student at MVN University 🎓. I'm currently diving
 - 🎯 Future Goals: Contribute openly to the community and make a difference.
 
 ## Skills 🛠️
-### Languages :
   ![icons8-html-5-96](https://github.com/Kunsh23/Kunsh23/assets/154256562/b143063d-f2fa-49a0-adba-cecc0a6c6247)
   ![icons8-css3-96](https://github.com/Kunsh23/Kunsh23/assets/154256562/1f837492-a7dc-4387-b15b-c6ec88848df2)
   ![icons8-js-96](https://github.com/Kunsh23/Kunsh23/assets/154256562/f31a8923-004a-4cea-bf4d-5fdc18eff877)
-
-### Frameworks/Libraries :
   ![icons8-react-native-96](https://github.com/Kunsh23/Kunsh23/assets/154256562/df899950-396f-44b8-bc95-24043dc0191e)
-  
-### Databases :
   ![icons8-mysql-96](https://github.com/Kunsh23/Kunsh23/assets/154256562/d0b48f23-72a2-45b7-9305-6796f477970e)
   ![icons8-mongodb-96](https://github.com/Kunsh23/Kunsh23/assets/154256562/13d4dc0d-d905-4ff6-9a0e-82664164c538)
-
-### Designing Platform :
   ![icons8-canva-96](https://github.com/Kunsh23/Kunsh23/assets/154256562/7ec17a83-845b-49a9-a11e-4b4698577801)
 
 ## Achievements 🏆
