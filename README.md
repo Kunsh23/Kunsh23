@@ -18,14 +18,6 @@ I'm Kunsh 🙋‍♂️, a B.Tech Computer Science student at MVN University �
 - **Frameworks/Libraries:** React (Beginner Level)
 - **Databases:** MySQL, MongoDB (Basic)
 
-## Projects 📚
-
-I've worked on several static websites and I'm currently learning and working on integrating databases. Here are some of my projects:
-
-- **Project 1:** [Short description of project 1]
-- **Project 2:** [Short description of project 2]
-- **Project 3:** [Short description of project 3]
-
 ## Achievements 🏆
 
 - **Achievement 1:** [Short description of achievement 1]
