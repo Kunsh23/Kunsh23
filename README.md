@@ -1,4 +1,5 @@
-![2](https://github.com/Kunsh23/Kunsh23/assets/154256562/b8728f31-8422-4de9-a455-5b3a396e6656)
+<!--- ![2](https://github.com/Kunsh23/Kunsh23/assets/154256562/b8728f31-8422-4de9-a455-5b3a396e6656) --->
+https://github.com/Kunsh23/Kunsh23/assets/154256562/b2e87e66-003a-4cad-b870-01ca55d52cc5
 
 # Hello!, I'm Kunsh Suneja
 
