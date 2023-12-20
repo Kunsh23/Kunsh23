@@ -41,7 +41,7 @@ If you need help with your projects, need someone to brainstorm with, or just ne
 ## Let's Connect ☕
 
 Feel free to reach out to me on:
-- 🔗 LinkedIn :  
+- 🔗 LinkedIn : https://www.linkedin.com/in/kunsh-suneja-363470230/
 - 📧 Email : kunsh23suneja@gmail.com
 
 
