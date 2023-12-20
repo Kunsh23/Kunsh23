@@ -1,10 +1,5 @@
 ![2](https://github.com/Kunsh23/Kunsh23/assets/154256562/b8728f31-8422-4de9-a455-5b3a396e6656)
 
-![3](https://github.com/Kunsh23/Kunsh23/assets/154256562/9dbef3ad-00bf-4638-95a2-99493724d784)
-
-![1](https://github.com/Kunsh23/Kunsh23/assets/154256562/b3fc6f10-5d2b-45c2-88a9-2b8ce70c38c2)
-
-
 # Hello! 👋🌍
 
 I'm Kunsh 🙋‍♂️, a B.Tech Computer Science student at MVN University 🎓. I'm currently diving into the world of front-end web development 💻 and have a keen interest in the latest designs and technology 🚀.
