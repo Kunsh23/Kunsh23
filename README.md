@@ -44,13 +44,8 @@ If you need help with your projects, need someone to brainstorm with, or just ne
 ## Let's Connect ☕
 
 Feel free to reach out to me on:
-- ![icons8-gmail-48](https://github.com/Kunsh23/Kunsh23/assets/154256562/53e76ad2-a078-4eda-9f49-c33358545afe) https://www.linkedin.com/in/kunsh-suneja-363470230/
-- ![icons8-linked-in-48](https://github.com/Kunsh23/Kunsh23/assets/154256562/25ae47a2-cb0b-4e5c-92fa-b4567060a07c) kunsh23suneja@gmail.com
-
-<!---
 - 🔗 LinkedIn : https://www.linkedin.com/in/kunsh-suneja-363470230/
 - 📧 Email : kunsh23suneja@gmail.com
---->
 
 <!---
 Kunsh23/Kunsh23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
