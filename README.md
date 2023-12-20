@@ -1,6 +1,4 @@
-<!--- ![2](https://github.com/Kunsh23/Kunsh23/assets/154256562/b8728f31-8422-4de9-a455-5b3a396e6656) --->
-[![Watch the video]([https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg](https://github.com/Kunsh23/Kunsh23/assets/154256562/b3e64211-85e9-481e-be65-33b574cc8fff))](https://github.com/Kunsh23/Kunsh23/assets/154256562/b8728f31-8422-4de9-a455-5b3a396e6656)
-
+![2](https://github.com/Kunsh23/Kunsh23/assets/154256562/b8728f31-8422-4de9-a455-5b3a396e6656)
 
 # Hello!, I'm Kunsh Suneja
 
