@@ -15,6 +15,7 @@ I'm B.Tech Computer Science student at MVN University 🎓. I'm currently diving
 ## Skills 🛠️
 
 - **Languages:** HTML, CSS, JavaScript
+  ![icons8-html-5-96](https://github.com/Kunsh23/Kunsh23/assets/154256562/b143063d-f2fa-49a0-adba-cecc0a6c6247) ![icons8-html-5-96](https://github.com/Kunsh23/Kunsh23/assets/154256562/b143063d-f2fa-49a0-adba-cecc0a6c6247)
 - **Frameworks/Libraries:** React (Beginner Level)
 - **Databases:** MySQL, MongoDB (Basic)
 
