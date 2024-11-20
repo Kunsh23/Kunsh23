@@ -47,10 +47,11 @@ If you need help with your projects, need someone to brainstorm with, or just ne
 ## Let's Connect ☕
 
 Feel free to reach out to me on:
-- 🔗 Portfolio : https://my-portfolio-bsnmxvyaw-kunshs-projects-b0b905c5.vercel.app/
-- 🔗 Figma : https://www.figma.com/design/kF5co9BwaIj3XSFPLaoD3V/Kunsh's-UI-Projects?node-id=0-1&t=UvrDbbzIe54Jx25q-1
 - 🔗 LinkedIn : https://www.linkedin.com/in/kunsh-suneja-363470230/
 - 📧 Email : kunsh23suneja@gmail.com
+
+- 🔗 Portfolio : https://my-portfolio-bsnmxvyaw-kunshs-projects-b0b905c5.vercel.app/
+- 🔗 Figma Projects : https://www.figma.com/design/kF5co9BwaIj3XSFPLaoD3V/Kunsh's-UI-Projects?node-id=0-1&t=UvrDbbzIe54Jx25q-1
 
 <!---
 Kunsh23/Kunsh23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
