@@ -13,6 +13,7 @@ I'm B.Tech Computer Science student at MVN University 🎓. I'm currently diving
 - 🎯 Future Goals: Contribute openly to the community and make a difference.
 
 ## Skills 🛠️
+  ![icons8-canva-96](https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000)
   ![icons8-html-5-96](https://github.com/Kunsh23/Kunsh23/assets/154256562/b143063d-f2fa-49a0-adba-cecc0a6c6247)
   ![icons8-css3-96](https://github.com/Kunsh23/Kunsh23/assets/154256562/1f837492-a7dc-4387-b15b-c6ec88848df2)
   ![icons8-js-96](https://github.com/Kunsh23/Kunsh23/assets/154256562/f31a8923-004a-4cea-bf4d-5fdc18eff877)
