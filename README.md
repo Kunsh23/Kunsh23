@@ -1,5 +1,4 @@
 ![2](https://github.com/Kunsh23/Kunsh23/assets/154256562/b8728f31-8422-4de9-a455-5b3a396e6656)
-![2](https://github.com/Devesh21cs1007/images/blob/main/WhatsApp%20Image%202024-12-18%20at%2013.40.37_67c15a8a.jpg)
 
 # Hello!, I'm Kunsh Suneja
 
